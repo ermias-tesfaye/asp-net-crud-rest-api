@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("asp.net-crud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+035e831d19585fa8620b8e9c5a5932cbb9b36096")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b68ddffc927ef560877b1281549a07f33c5743ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("asp.net-crud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("asp.net-crud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

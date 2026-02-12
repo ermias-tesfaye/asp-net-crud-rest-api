@@ -1,8 +1,8 @@
 using System;
 
-namespace asp.net_crud.Models.Entities;
+namespace asp.net_crud.Models;
 
-public class Employee
+public class AddEmployeeDto
 {
     public Guid Id { get; set; }
     public required string Name { get; set; }

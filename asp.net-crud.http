@@ -1,6 +1,6 @@
-@asp.net_crud_HostAddress = http://localhost:5106
+@asp.net_crud_HostAddress = http://localhost:7245
 
-GET {{asp.net_crud_HostAddress}}/weatherforecast/
+GET {{asp.net_crud_HostAddress}}/employees/
 Accept: application/json
 
 ###

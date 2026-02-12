@@ -123,3 +123,6 @@ E:\CSHARP\asp.net-crud\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MS
 E:\CSHARP\asp.net-crud\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 E:\CSHARP\asp.net-crud\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 E:\CSHARP\asp.net-crud\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\CSHARP\asp.net-crud\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CSHARP\asp.net-crud\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CSHARP\asp.net-crud\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
