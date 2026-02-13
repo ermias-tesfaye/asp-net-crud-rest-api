@@ -27,7 +27,6 @@ namespace asp.net_crud.Controllers
         }
 
         [HttpPost]
-
         public IActionResult AddEmployee(AddEmployeeDto addEmployeeDto)
         {
 
@@ -60,7 +59,6 @@ namespace asp.net_crud.Controllers
         }
 
         [HttpPut]
-
         [Route("{id:guid}")]
         public IActionResult UpdateEmployee(Guid id, UpdateEmployeeDto updateEmployeeDto)
         {
